@@ -1,6 +1,6 @@
 # Vehicle Number Plate Detection In Real Time
 
-![image](https://github.com/eshita-jain/xy/assets/80577092/82be4762-2225-472b-826a-c16b5a50aaad)
+![image](https://github.com/eshita-jain/Vehical-Detection-In-Real-Time/assets/80577092/2163bf82-4943-4de8-81ae-06b17338c162)
 
 ## Introduction
 
@@ -65,15 +65,13 @@ The GUI allows users to browse and process both images and videos, providing a u
 
 After running the Vehicle Number Plate Detection project, you will obtain the following results:
 
-![WhatsApp Image 2023-09-03 at 01 39 40](https://github.com/eshita-jain/xy/assets/80577092/0be1f9cb-51ea-4093-beff-e59bcc233eb7)
+![WhatsApp Image 2023-09-03 at 01 39 40](https://github.com/eshita-jain/Vehical-Detection-In-Real-Time/assets/80577092/cff919c5-ea25-4ee3-a4ce-b24b889e1303)
 
 - Detected license plates with bounding boxes drawn around them in the processed images or video frames.
 
-**![WhatsApp Image 2023-09-03 at 01 39 59](https://github.com/eshita-jain/xy/assets/80577092/468e563a-023c-4fb2-b0bb-a694d49f978a)
-**
+
 - Recognized license plate numbers and, if available, the corresponding owner's names.
 
-![WhatsApp Image 2023-09-03 at 01 40 49](https://github.com/eshita-jain/xy/assets/80577092/a2b35675-a4a5-4fe9-9689-7c9a7b80d0a4)
 
 - Results saved to a CSV file named 'results.csv' for further analysis and reference.
 
