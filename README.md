@@ -69,9 +69,11 @@ After running the Vehicle Number Plate Detection project, you will obtain the fo
 
 - Detected license plates with bounding boxes drawn around them in the processed images or video frames.
 
+![WhatsApp Image 2023-09-03 at 01 39 59](https://github.com/eshita-jain/Vehical-Detection-In-Real-Time/assets/80577092/1fc7c12e-cae6-453f-a670-0750ad50f668)
 
 - Recognized license plate numbers and, if available, the corresponding owner's names.
 
+![WhatsApp Image 2023-09-03 at 01 40 49](https://github.com/eshita-jain/Vehical-Detection-In-Real-Time/assets/80577092/a2cab1d2-ce8a-42ad-994a-8ae3d97ec582)
 
 - Results saved to a CSV file named 'results.csv' for further analysis and reference.
 
